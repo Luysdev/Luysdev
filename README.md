@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Luis Eduardo
 
 
-![Luysdev GitHub stats](https://github-readme-stats.vercel.app/api?username=Luysdev&show_icons=true&theme=dracula&count_private=true)
+
 [![Luydev Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luysdev&hide_layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias que eu uso no meu dia
 
