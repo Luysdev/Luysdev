@@ -4,10 +4,7 @@
 <p>👨‍💻 Atualmente estudando PHP e Java</p>
 <div>
   <img width="100px" heitgh="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  
-  <img width="100px" heitgh="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
-  <img width="100px" heitgh="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ 
 </div>
 ## Tecnologias que eu uso no meu dia
 
