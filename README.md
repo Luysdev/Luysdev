@@ -2,7 +2,13 @@
 <p>👨‍🎓 3º semestre Engenharia de Software - UDESC</p>
 <p>📚 Viciado em aprender coisas novas</p>
 <p>👨‍💻 Atualmente estudando PHP e Java</p>
+<div>
+  <img width="30px" heitgh="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -15,11 +21,7 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
           
 </div><br/>
