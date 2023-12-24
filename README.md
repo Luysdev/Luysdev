@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Luis Eduardo
-<h2>👨‍🎓 3º semestre Engenharia de Software - UDESC</h2>
+<p>👨‍🎓 3º semestre Engenharia de Software - UDESC</p>
 
 
 ## Tecnologias que eu uso no meu dia
